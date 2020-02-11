@@ -18,6 +18,14 @@
   },
   "homepage": "https://github.com/raed-401-advanced-javascript/lab-08#readme",
   "dependencies": {
-    "jest": "^25.1.0"
+    "@code-fellows/supergoose": "^1.0.1",
+    "cors": "^2.8.5",
+    "eslint": "^6.8.0",
+    "express": "^4.17.1",
+    "jest": "^25.1.0",
+    "mongo": "^0.1.0",
+    "mongoose": "^5.8.11",
+    "morgan": "^1.9.1",
+    "nodemon": "^2.0.2"
   }
 }
